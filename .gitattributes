@@ -1,0 +1,6 @@
+# for ckpt files.
+*.pt  binary
+*.ckpt binary
+*.pkl binary
+*.png binary
+

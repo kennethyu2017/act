@@ -1,3 +1,31 @@
+#virtual env
+venv/
+
+#Pycharm project
+.idea/
+
+#robot assets
+*.STL
+*.stl
+*.pdf
+
+#robot assets
+*.STL
+*.stl
+
+
+#dataset
+*.hdf5
+*.mp4
+data/
+
+#ckpt
+*.pt
+*.ckpt
+*.png
+*.pkl
+
+
 bin
 logs
 wandb
@@ -138,3 +166,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+ckpt_dir/
+*.ipynb
